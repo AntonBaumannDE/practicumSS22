@@ -1,0 +1,2 @@
+/usr/bin/ar qc libio_colmap.a  CMakeFiles/io_colmap.dir/src/colmap_reader.cpp.o
+/usr/bin/ranlib libio_colmap.a

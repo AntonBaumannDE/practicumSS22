@@ -1,0 +1,12 @@
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/CMakeFiles/rebuild_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/CMakeFiles/edit_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/CMakeFiles/extract_scannet_scene.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io/CMakeFiles/rebuild_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io/CMakeFiles/edit_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io/CMakeFiles/io.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io_colmap/CMakeFiles/rebuild_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io_colmap/CMakeFiles/edit_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/io_colmap/CMakeFiles/io_colmap.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/camera/CMakeFiles/rebuild_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/camera/CMakeFiles/edit_cache.dir
+/home/anton/code/ss22/practicum/baselines/dense_depth_priors_nerf/preprocessing/build/camera/CMakeFiles/camera.dir

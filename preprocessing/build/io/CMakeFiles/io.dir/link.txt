@@ -1,0 +1,2 @@
+/usr/bin/ar qc libio.a  CMakeFiles/io.dir/src/rgbd.cpp.o CMakeFiles/io.dir/src/file_utils.cpp.o CMakeFiles/io.dir/src/camera_frames.cpp.o
+/usr/bin/ranlib libio.a
